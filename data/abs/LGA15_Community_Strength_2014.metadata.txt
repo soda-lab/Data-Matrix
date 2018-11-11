@@ -1,0 +1,204 @@
+vol_past_yr_8_rrmse
+Voluntary work in the past 12 months – Relative Root Mean Square Error
+Integer
+ 
+vol_past_yr_7_sr_uci
+Voluntary work in the past 12 months – SR – upper confidence interval
+Integer
+ 
+vol_past_yr_6_sr_lci
+Voluntary work in the past 12 months – SR – lower confidence interval
+Integer
+ 
+vol_past_yr_5_sr
+Voluntary work in the past 12 months – SR
+Integer
+ 
+vol_past_yr_4_asr_uci
+Voluntary work in the past 12 months – ASR per 100 population – upper confidence interval
+Double
+ 
+vol_past_yr_3_asr_lci
+Voluntary work in the past 12 months – ASR per 100 population – lower confidence interval
+Double
+ 
+vol_past_yr_2_asr
+Voluntary work in the past 12 months – ASR per 100 population
+Double
+ 
+vol_past_yr_1_count
+Voluntary work in the past 12 months – count
+Integer
+ 
+ste_name
+State Name
+String
+ 
+saf_8_rrmse
+Feel safe walking alone in local area after dark – Relative Root Mean Square Error
+Integer
+ 
+saf_7_sr_uci
+Feel safe walking alone in local area after dark – SR – upper confidence interval
+Integer
+ 
+saf_6_sr_lci
+Feel safe walking alone in local area after dark – SR – lower confidence interval
+Integer
+ 
+saf_5_sr
+Feel safe walking alone in local area after dark – SR
+Integer
+ 
+saf_4_asr_uci
+Feel safe walking alone in local area after dark – ASR per 100 population – upper confidence interval
+Double
+ 
+saf_3_asr_lci
+Feel safe walking alone in local area after dark – ASR per 100 population – lower confidence interval
+Double
+ 
+saf_2_asr
+Feel safe walking alone in local area after dark – ASR per 100 population
+Double
+ 
+saf_1_count
+Feel safe walking alone in local area after dark – count
+Integer
+ 
+psup_8_rrmse
+Provide support to other relatives – Relative Root Mean Square Error
+Integer
+ 
+psup_7_sr_uci
+Provide support to other relatives – SR – upper confidence interval
+Integer
+ 
+psup_6_sr_lci
+Provide support to other relatives – SR – lower confidence interval
+Integer
+ 
+psup_5_sr
+Provide support to other relatives – SR
+Integer
+ 
+psup_4_asr_uci
+Provide support to other relatives – ASR per 100 population – upper confidence interval
+Double
+ 
+psup_3_asr_lci
+Provide support to other relatives – ASR per 100 population – lower confidence interval
+Double
+ 
+psup_2_asr
+Provide support to other relatives – ASR per 100 population
+Double
+ 
+psup_1_count
+Provide support to other relatives – count
+Integer
+ 
+lga_name
+Local Government Area Name
+String
+ 
+lga_code
+Local Government Area Code
+Integer
+ 
+gsup_8_rrmse
+Support in time of crisis – Relative Root Mean Square Error
+Integer
+ 
+gsup_7_sr_uci
+Support in time of crisis – SR – upper confidence interval
+Integer
+ 
+gsup_6_sr_lci
+Support in time of crisis – SR – lower confidence interval
+Integer
+ 
+gsup_5_sr
+Support in time of crisis – SR
+Integer
+ 
+gsup_4_asr_uci
+Support in time of crisis – ASR per 100 population – upper confidence interval
+Double
+ 
+gsup_3_asr_lci
+Support in time of crisis – ASR per 100 population – lower confidence interval
+Double
+ 
+gsup_2_asr
+Support in time of crisis – ASR per 100 population
+Double
+ 
+gsup_1_count
+Support in time of crisis – count
+Integer
+ 
+discrim_past_yr_8_rrmse
+Felt discrimination in the past 12 months – Relative Root Mean Square Error
+Integer
+ 
+discrim_past_yr_7_sr_uci
+Felt discrimination in the past 12 months – SR – upper confidence interval
+Integer
+ 
+discrim_past_yr_6_sr_lci
+Felt discrimination in the past 12 months – SR – lower confidence interval
+Integer
+ 
+discrim_past_yr_5_sr
+Felt discrimination in the past 12 months – SR
+Integer
+ 
+discrim_past_yr_4_asr_uci
+Felt discrimination in the past 12 months – ASR per 100 population – upper confidence interval
+Double
+ 
+discrim_past_yr_3_asr_lci
+Felt discrimination in the past 12 months – ASR per 100 population – lower confidence interval
+Double
+ 
+discrim_past_yr_2_asr
+Felt discrimination in the past 12 months – ASR per 100 population
+Double
+ 
+discrim_past_yr_1_count
+Felt discrimination in the past 12 months – count
+Integer
+ 
+cul_8_rrmse
+Disagree with accepting other cultures – Relative Root Mean Square Error
+Integer
+ 
+cul_7_sr_uci
+Disagree with accepting other cultures – SR – upper confidence interval
+Integer
+ 
+cul_6_sr_lci
+Disagree with accepting other cultures – SR – lower confidence interval
+Integer
+ 
+cul_5_sr
+Disagree with accepting other cultures – SR
+Integer
+ 
+cul_4_asr_uci
+Disagree with accepting other cultures – ASR per 100 population – upper confidence interval
+Double
+ 
+cul_3_asr_lci
+Disagree with accepting other cultures – ASR per 100 population – lower confidence interval
+Double
+ 
+cul_2_asr
+Disagree with accepting other cultures – ASR per 100 population
+Double
+ 
+cul_1_count
+Disagree with accepting other cultures – count
+Integer
+ 
